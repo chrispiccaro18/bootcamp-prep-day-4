@@ -1,0 +1,17 @@
+body {
+    font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1 {
+    color: darkblue;
+}
+
+label {
+    display: block;
+    padding: 5px; /* added padding between label elements */
+}
+
+button {
+    color: white;
+    background: darkblue;
+    padding 5px;
+}
